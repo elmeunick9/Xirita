@@ -1,0 +1,6 @@
+IMPORT "lib/base.x"
+
+[IMPRIMIR a b]
+	ASSIGN 0 , LOOP b: ADD a , PRINT
+
+[MAIN] IMPRIMIR 5 10

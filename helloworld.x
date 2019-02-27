@@ -1,0 +1,1 @@
+ASSIGN "Hello World!" , PRINT
